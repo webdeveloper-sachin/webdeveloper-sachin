@@ -1,34 +1,32 @@
 <h1 align="center">Hi 👋, I'm Sachin</h1>
-<h3 align="center">A passionate Web Developer | MERN Stack | Open Source Enthusiast</h3>
+<h3 align="center">Web Developer | Learning MERN Stack | Building Inventory Systems</h3>
 
 ---
 
-- 🔭 I’m currently working on **a MERN Job Tracker App**
-- 🌱 I’m currently learning **Next.js, TypeScript, and Cloud Deployment**
-- 💬 Ask me about **React, Node.js, MongoDB, Express, Git**
-- 👨‍💻 All of my projects are available at [github.com/webdeveloper-sachin](https://github.com/webdeveloper-sachin)
-- 📫 Reach me at **youremail@example.com**
-- ⚡ Fun fact: *I love clean code and write comments like poetry ✍️*
+- 🔭 I’m currently working on a **Return Inventory System** at my workplace
+- 🌱 I’m learning **React, Express, and MongoDB** to become a full-stack developer
+- 💬 Ask me about **HTML, CSS, JavaScript, Git, and REST APIs**
+- 👨‍💻 I’m building real-world applications using the **MERN stack**
+- 📫 Reach me at **sachinsaroj4246@gmail.com**
+- ⚡ Fun fact: *I love solving real business problems with code*
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Tools & Technologies I Use:
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=webdeveloper-sachin&show_icons=true&theme=radical" width="48%" />
@@ -37,15 +35,20 @@
 
 ---
 
-### 🌟 Featured Projects:
+### 💼 Real-World Projects
 
-- 🔗 [Job Tracker App](https://github.com/webdeveloper-sachin/job-tracker) — Manage and track job applications (MERN)
-- 🔗 [Portfolio Website](https://github.com/webdeveloper-sachin/portfolio) — Personal developer portfolio built with React
-- 🔗 [Blog App](https://github.com/webdeveloper-sachin/blog-app) — Blog platform with markdown editor & comments
+- 🔧 **Return Inventory System**  
+  Helping manage returned items in inventory using React, Express, and MongoDB. (Private company project)
+
+- 📌 [Job Tracker App](https://github.com/webdeveloper-sachin/job-tracker) *(Coming Soon)*  
+  Personal MERN stack app to track job applications.
+
+- 💼 [Portfolio Website](https://github.com/webdeveloper-sachin/portfolio) *(Coming Soon)*  
+  Clean, modern developer portfolio using React + Tailwind CSS.
 
 ---
 
-### 📫 Connect with Me:
+### 📫 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
